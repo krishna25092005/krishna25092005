@@ -39,6 +39,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
+  
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna25092005&show_icons=true&locale=en&layout=compact" alt="krishna25092005" /></p>
