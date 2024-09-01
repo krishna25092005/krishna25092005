@@ -1,5 +1,8 @@
 ![logo](https://github.com/krishna25092005/krishna25092005/blob/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image%20(1).png)
-<h1 align="center">Hi 👋, I'm Krishna Chauhan</h1>
+<h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> Krishna this side !</h1>
 <h3 align="center">A passionate aspiring Software Engineer from India. I transform complex problems into elegant software solutions, making each line of code count.</h3>
 <img align="right" alt="Coding" width ="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
