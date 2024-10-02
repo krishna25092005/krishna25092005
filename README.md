@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [30-Days-Of-DSA](https://github.com/krishna25092005/Supreme_3.0.git)
 
-- 🌱 I’m currently learning **Data Structures & Algorithms and MERN Stack!**
+- 🌱 I’m currently learning **MERN Stack and Data Structures & Algorithms!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishna25092005](https://github.com/krishna25092005)
 
