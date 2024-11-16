@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna25092005&label=Profile%20views&color=0e75b6&style=flat" alt="krishna25092005" /> </p>
 
-- 🔭 I’m currently working on [30-Days-Of-DSA](https://github.com/krishna25092005/Supreme_3.0.git)
+- 🔭 I’m currently working on [30-Days-Of-DSA](https://leetcode.com/krishna_25092005/)
 
 - 🌱 I’m currently learning **MERN Stack and Data Structures & Algorithms!**
 
