@@ -55,6 +55,14 @@
 
 <br>
 
+## 🏆 Leetcode Badges:
+
+<div align="center">
+  
+<img height="158em" src="https://github.com/user-attachments/assets/864c3543-d243-4f2c-99f0-8b60d762137c">
+<img height="160em" src="https://github.com/user-attachments/assets/94193abb-6edd-4e3d-8b9d-b59a523964fe">
+
+</div><br>
 
 ## 📊 GitHub Stats:
 
