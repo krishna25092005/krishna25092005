@@ -76,7 +76,7 @@
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishna25092005&theme=algolia">
 <img height="169em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishna25092005&theme=algolia&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=krishna25092005&theme=algolia&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=krishna25092005&theme=algolia">
+<img height="169em" src="https://nirzak-streak-stats.vercel.app?user=krishna25092005&theme=algolia">
 
 </div><br>
 
