@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-<img width=100% src="https://github.com/user-attachments/assets/304ec8e5-d0ce-4f1e-b918-c9433a9d1b81" alt="Profile Banner"/>
+<img width=100% src="https://github.com/user-attachments/assets/5bc05401-701e-4ffd-9d8b-875ef0c85d86" alt="Profile Banner"/>
 
 <h1 align="center">
   Hey there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
