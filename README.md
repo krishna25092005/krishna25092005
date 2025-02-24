@@ -60,9 +60,12 @@
 <div align="center">
   
 <p align="center">
+  <a href="https://leetcode.com/krishna_25092005/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/0fb46467-181d-4a09-bd51-26783ac3b648" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/krishna_25092005/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/df7002e6-2ff5-4908-88bc-09daaf3c570d" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/krishna_25092005/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/864c3543-d243-4f2c-99f0-8b60d762137c" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/krishna_25092005/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/94193abb-6edd-4e3d-8b9d-b59a523964fe" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/krishna_25092005/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/df7002e6-2ff5-4908-88bc-09daaf3c570d" alt="jyot" height="200" width="200" /></a>
+  
+  
 <p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/krishna_25092005?theme=dark&font=Nunito&ext=heatmap" />  
